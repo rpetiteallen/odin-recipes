@@ -1,1 +1,2 @@
 # odin-recipes
+"The Current Project is called Recipes. Up to now I have learned how to use HTML and CSS. I have also learned how to create repositories and work with them on local machines. In this project I created a list of recipes and viewable pages to learn"
